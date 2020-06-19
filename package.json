@@ -3,6 +3,10 @@
   "displayName": "Zeswen's Flutter Pack",
   "description": "My Flutter extension pack.",
   "publisher": "Zeswen",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zeswen/zeswen-flutter-pack.git"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.46.0"
