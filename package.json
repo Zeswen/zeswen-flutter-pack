@@ -1,0 +1,18 @@
+{
+  "name": "zeswen-flutter-pack",
+  "displayName": "Zeswen's Flutter Pack",
+  "description": "My Flutter extension pack.",
+  "publisher": "Zeswen",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "Dart-Code.dart-code",
+    "Dart-Code.flutter",
+    "Nash.awesome-flutter-snippets"
+  ]
+}
